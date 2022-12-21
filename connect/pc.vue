@@ -1,7 +1,7 @@
 <template>
   <div class="pc">pc页面
     <img src="./images/flash.png" alt="">
-    <div class="second">第二阶段的文字</div>
+    <div class="second">第二阶段的文字完整</div>
     <div class="rule-wrap">
       <p>1.测试代码</p>
       <p>2.测试代码</p>
