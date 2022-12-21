@@ -8,16 +8,16 @@
       <p>3.测试代码</p>
       <p>4.测试代码</p>
       <p>5.测试代码</p>
-      <p>6.测试代码</p>
     </div>
   </div>
 </template>
 
 <script>
 export default {
+  name: "Pc",
   data() {
     return {
-      test: false,
+      isEnabled:false,
     }
   },
 }
