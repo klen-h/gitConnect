@@ -10,9 +10,10 @@
 
 <script>
 export default {
+  name: "Pc",
   data() {
     return {
-      test: false,
+      isEnabled:false,
     }
   },
 }
