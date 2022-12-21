@@ -14,10 +14,9 @@
 
 <script>
 export default {
-  name: "Pc",
   data() {
     return {
-      isEnabled:false,
+      test: false,
     }
   },
 }
